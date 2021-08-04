@@ -2,9 +2,9 @@
   "main": {
     "name": "Josephine",
     "occupation": "Director, Twin Concepts Consulting",
-    "description": "Coffee loving IT nerd",
+    "description": "A Lover of Coffee & Eternal Learner...I also do web stuff!!!",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Jo! With a background in Management and Information Systems Management, I have worked in various capacities - from a lecturer at Aptech (a global IT education center), to a Technical Assistant with an Oil and Gas major, and National Administrator for a non-profit. But through all my career journey I have used technology to innovate, strategize and solution build. How can I help you?",
+    "bio": "Hi there! I am  JED! With a background in Management and Information Systems Management, I have worked in various capacities - from a lecturer at Aptech (a global IT education center), to a Technical Assistant with an Oil and Gas major, and National Administrator for a non-profit. But through all my career journey I have used technology to innovate, strategize and solution build. How can I help you?",
     "contactmessage": "Got a problem...let's talk !",
     "email": "twinconceptsdesignltd@gmail.com",
     "phone": "+234 8027028691",
@@ -14,7 +14,7 @@
       "state": "Rivers",
       "zip": "500221"
     },
-    "website": "https://www.papareact.com/course",
+    "website": "https://vigilant-kalam-53bbfd.netlify.app/",
     "resumedownload": "http://papareact.com",
     "social": [
       {
