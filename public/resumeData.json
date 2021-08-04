@@ -1,87 +1,92 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
+    "name": "Josephine",
+    "occupation": "Director, Twin Concepts Consulting",
+    "description": "Coffee loving IT nerd",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "bio": "Hi there! I am Jo! With a background in Management and Information Systems Management, I have worked in various capacities - from a lecturer at Aptech (a global IT education center), to a Technical Assistant with an Oil and Gas major, and National Administrator for a non-profit. But through all my career journey I have used technology to innovate, strategize and solution build. How can I help you?",
+    "contactmessage": "Got a problem...let's talk !",
+    "email": "twinconceptsdesignltd@gmail.com",
+    "phone": "+234 8027028691",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "",
+      "city": "Port Harcourt",
+      "state": "Rivers",
+      "zip": "500221"
     },
     "website": "https://www.papareact.com/course",
     "resumedownload": "http://papareact.com",
     "social": [
       {
         "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
+        "url": "https://www.youtube.com/channel/UCoHHfoFRI_phmALq6HQumKw",
         "className": "fa fa-youtube"
       },
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
+        "name": "behance",
+        "url": "https://www.behance.net/tcdesignltd",
+        "className": "fa fa-behance"
       },
       {
-        "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
-        "className": "fa fa-linkedin"
-      },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
-        "className": "fa fa-instagram"
+        "name": "twitter",
+        "url": "https://twitter.com/tccdesignltd",
+        "className": "fa fa-twitter"
       },
       {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/twinconceptsdesignltd",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "My Programming Language Proficiency",
+    "skillmessage": "What I'm Great at",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "University of Benin - Nigeria",
+        "degree": "Bachelor's Degree, Mathematics - Econs",
+        "graduated": "2000"
+      },
+
+      {
+        "school": "APTECH Education Centre - Nigeria",
+        "degree": "Cert. and Diploma in Information Systems Management",
+        "graduated": "2002/3",
+        "description": "Final Project, Hotel Management App built with VB 6.0 and MS SQL"
+      },
+
+      {
+        "school": "University of Port Harcourt - Nigeria",
+        "degree": "Bachelor's Degree, Management",
+        "graduated": "2009"
       }
     ],
     "work": [
       {
-        "company": "PAPA",
+        "company": "Twin Concepts Consulting",
         "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "years": "2012 - Present",
+        "description": "Building businesses from the ground up"
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "100%"
+        "name": "Consultancy"
       },
       {
-        "name": "Python",
-        "level": "85%"
+        "name": "Brand Identity Development"
       },
       {
-        "name": "Git",
-        "level": "70%"
+        "name": "Social Media Marketing"
       },
       {
-        "name": "JavaScript",
-        "level": "99%"
+        "name": "User Experience Design"
       },
       {
-        "name": "Web Development",
-        "level": "95%"
+        "name": "WordPress Site Deveelopment"
+      },
+      {
+        "name": "Web Development"
       }
     ]
   },
